@@ -1,0 +1,8 @@
+.countries-container{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 10px;
+}
+.color{
+    background-color: rgb(145, 255, 0);
+}
